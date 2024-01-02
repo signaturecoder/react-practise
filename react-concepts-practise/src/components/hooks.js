@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 
 /**
  * useMemo, useCallback and useRef
- *
+ * Ref: https://w3collective.com/react-stopwatch/
  * Build a timer app
  * @returns
  */
